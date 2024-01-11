@@ -11,3 +11,8 @@ https://codesandbox.io/
 https://codepen.io/gaearon/pen/gwoJeZ
 https://es.react.dev/learn/state-a-components-memory
 
+https://www.reactiflux.com/
+
+https://es.legacy.reactjs.org/docs/state-and-lifecycle.html
+
+https://legacy.reactjs.org/docs/state-and-lifecycle.html
